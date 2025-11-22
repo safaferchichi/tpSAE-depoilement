@@ -1,2 +1,5 @@
-le Tp2SAE c'est la 1ére partie de tp 
-le TP2SAE-H2 c'est la partie H2 et mysql
+TP2SAE correspond à la première partie du TP.
+
+TP2SAE_H2 correspond à la partie avec la base de données H2 et MySQL.
+
+seance1.py contient le code réalisé en classe.
